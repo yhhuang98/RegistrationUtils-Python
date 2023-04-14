@@ -1,2 +1,2 @@
-# Registration_PyUtils
-Some useful medical image registration python functions based on airlab, SimpleITK
+# Registration Utils Python
+Some useful medical image registration python functions based on Airlab, SimpleITK
